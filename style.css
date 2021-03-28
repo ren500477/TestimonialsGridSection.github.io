@@ -8,12 +8,14 @@ body {
   height: 100vh;
   background-color: hsl(210, 46%, 95%);
   font-family: "Barlow Semi Condensed", sans-serif;
+  overflow: hidden;
 }
 
 section {
   display: flex;
   justify-content: center;
   justify-items: center;
+  overflow: hidden;
 }
 
 .container {
